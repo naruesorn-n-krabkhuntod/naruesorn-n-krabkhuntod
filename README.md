@@ -1,9 +1,6 @@
-<p align="center">
-  <img src="https://github.com/mooncodezz/mooncodezz/blob/main/20211126_173330.jpg" height="220"/>
-</p>
-<hr>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm MoonCodezz</h1>
-<h3 align="center">Software Engineer | Deep-Learning Engineer | Robot Controller Design</h3>
+
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Naruesorn</h1>
+<h3 align="center">Software Engineer | Font-End Web Developer | UX/UI Design</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/naruesorn-krabkhuntod-a2b5b6222/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="30" width="40" /></a>
 <a href="https://www.facebook.com/naruesornkb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="akash chowrasia" height="30" width="40" /></a>
@@ -11,15 +8,13 @@
 </p>
 </p>
 
-
-
 <p align="center">
   <em>
-    This is ME, Naruesorn Krabkuntod(Mooncodezz), a <b>First year</b> undergraduate from <a href="https://rmuti.ac.th/main/"> <b>Rajamangala University of Technology Isan</b></a>. <br>
-    A budding <b>Deep Learning Engineer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Competitive Programming Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,
+    This is ME, Naruesorn Krabkuntod (New), a <b>First year</b> undergraduate from <a href="https://www.ru.ac.th/th/"> <b>Ramkhamhaeng University</b></a>. <br>
+    A budding <b>Font-End-Devlopment free course</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>POS system</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">
   </em> 
   <br>
-  <img src="https://media3.giphy.com/media/naiatn5LxTOsU/giphy.gif?cid=ecf05e478l7j95qlg7mnyj7h1uuy3pmamlli0orgwpxpfjxn&rid=giphy.gif&ct=g" width="50" /> <b><i>Learning while Living!!!</i></b>
+  <b><i>Learning while Living!!!</i></b>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akash-chowrasia&label=Profile%20views&color=0e75b6&style=flat" alt="akash-chowrasia" /> </p>
