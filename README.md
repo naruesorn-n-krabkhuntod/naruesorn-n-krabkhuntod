@@ -1,5 +1,6 @@
-<img align="center" width=80% alt="Unicorn" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjB4NHl3bXhtcGZleGF2NnQzbXBsb2g5OHZnNWJsOHNwMHgxajVvdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f4V2mqvv0wT9m/giphy.gif">
-
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXk1cG1qbmlnZTFjNHBoYWwwb3V4Z2R6aXdtNnRzbW5mZThnZnd0NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7btRkeE7RtAq8DnO/giphy.gif" height="250"/>
+</p>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Naruesorn</h1>
 <h3 align="center">Software Engineer | Font-End Web Developer | UX/UI Design</h3>
 <p align="center">
